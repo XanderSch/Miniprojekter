@@ -1,0 +1,3 @@
+pip install pygame
+pip install random
+pip install Queue
